@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Armen Levon Armen</title>
-    <link>https://mino9421.github.io/posts/</link>
+    <link>https://mino9421.github.io/Armen_portfolio/posts/</link>
     <description>Recent content in Posts on Armen Levon Armen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 12 Apr 2021 04:51:36 -0400</lastBuildDate><atom:link href="https://mino9421.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 12 Apr 2021 04:51:36 -0400</lastBuildDate><atom:link href="https://mino9421.github.io/Armen_portfolio/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Portfolio</title>
-      <link>https://mino9421.github.io/posts/portfolio/</link>
+      <link>https://mino9421.github.io/Armen_portfolio/posts/portfolio/</link>
       <pubDate>Mon, 12 Apr 2021 04:51:36 -0400</pubDate>
       
-      <guid>https://mino9421.github.io/posts/portfolio/</guid>
+      <guid>https://mino9421.github.io/Armen_portfolio/posts/portfolio/</guid>
       <description>Bio Hi, my name is Armen Levon Armen. A 2nd year Programming &amp;amp; Analysis student at George Brown College seeking new opportunities to add to my 5+ years of experience in customer service and problem-solving. I thrive on exploring modern aesthetic UI/UX designs using HTML, CSS and Bootstrap.
  Useful Links  Link to Resume   Link to Github  Certificates &amp;ndash; NDG Linux Essentials
 &amp;ndash; CCNA Level-1
@@ -21,19 +21,19 @@
     
     <item>
       <title>Projects</title>
-      <link>https://mino9421.github.io/posts/blogs/</link>
+      <link>https://mino9421.github.io/Armen_portfolio/posts/blogs/</link>
       <pubDate>Mon, 12 Apr 2021 04:51:29 -0400</pubDate>
       
-      <guid>https://mino9421.github.io/posts/blogs/</guid>
+      <guid>https://mino9421.github.io/Armen_portfolio/posts/blogs/</guid>
       <description>This Page Demonstrates My Projects   Data Structure &amp;amp; Algorithms    Videogame Player Inventory Data Structure    Parking Ticket Tool   Legends  &amp;mdash; Academical Projects  </description>
     </item>
     
     <item>
       <title>Portfolio_Tutorial</title>
-      <link>https://mino9421.github.io/posts/portfolio_tutorial/</link>
+      <link>https://mino9421.github.io/Armen_portfolio/posts/portfolio_tutorial/</link>
       <pubDate>Sun, 12 Apr 2020 04:51:42 -0400</pubDate>
       
-      <guid>https://mino9421.github.io/posts/portfolio_tutorial/</guid>
+      <guid>https://mino9421.github.io/Armen_portfolio/posts/portfolio_tutorial/</guid>
       <description>Step 1. Install Hugo Go to Hugo releases and download the appropriate version for your OS and architecture.
 Save it somewhere specific as we will be using it in the next step.
 More complete instructions are available at Install Hugo
